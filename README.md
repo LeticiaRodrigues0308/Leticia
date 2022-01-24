@@ -1,6 +1,6 @@
 # portfolio-readme
 
-## Oie! Me Chamo Letícia Rodrigues ⭐  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Oie! Me Chamo Letícia Rodrigues! ⭐  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  <br/>
  <div>
   <a href="https://github.com/LeticiaRodrigues0308">
