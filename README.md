@@ -5,7 +5,6 @@
  <div>
   <a href="https://github.com/LeticiaRodrigues0308">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaRodrigues0308&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="340px" align="right" alt="Computador">
 </div>
   
  
