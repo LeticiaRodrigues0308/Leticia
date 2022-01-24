@@ -5,13 +5,14 @@
  <div>
   <a href="https://github.com/LeticiaRodrigues0308">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaRodrigues0308&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+   </br>
+ </br>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRodrigues0308&layout=compact&langs_count=7&theme=nightowl"  /> 
 </div>
-  
  
-## SKILLS
+## Ferramentas e Tecnologias:
 
 <div style="inline_block">
-    <br>
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/c-sharp-logo-2.png">
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/html-5--v2.png">
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/css3.png">
@@ -20,11 +21,11 @@
     <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/nodejs.png">
     <img alt="" height="35" width="35" src="https://img.icons8.com/color/344/figma--v1.png">
 </div>
-<br/>
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaRodrigues0308&layout=compact&langs_count=7&theme=nightowl"  />
- </div>  
 
+ ## Estou aprendendo:
+   <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png">
+   <img alt="" height="40" width="40" src="https://img.icons8.com/color/344/amazon-web-services.png">
+  </br>
 <div> 
  
   ### Formas De Contato:
